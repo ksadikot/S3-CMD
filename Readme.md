@@ -6,6 +6,7 @@ This project is a shell script that can manage AWS S3 files.
 The objectives of this project was to replicate file management system such as powershell and cmd.
 
 **Following list of commands:**
+
 Upload file: locs3cp '/file/path/'
 
 Download file: s3loccp '/s3/file/path/'
